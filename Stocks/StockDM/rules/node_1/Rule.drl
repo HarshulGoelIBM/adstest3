@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
+  <name>Rule</name>
+  <uuid>57a095f4-c094-417b-949d-3ce047a7c5f1</uuid>
+  <locale>en_US</locale>
+  <definition><![CDATA[if
+    Input is "Hello"
+then
+    set decision to "Yes it's me" ;]]></definition>
+</ilog.rules.studio.model.brl:ActionRule>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="operation" targetRuleProjectName="StockDM">
+  <name>stockDM</name>
+  <uuid>604c1155-4671-4903-9018-d9b9c5b18445</uuid>
+  <decisionModel href="../rules/decisionModel.dmo#1bf0618d-2121-4e41-802d-c96bc081a58c"/>
+  <targetRuleProject href="../../StockDM#4a1a9082-9d39-49ed-8add-b40d1bfe98f0"/>
+</com.ibm.rules.studio.model.decisionservice:Operation>
